@@ -1,1 +1,1 @@
-#Project Management with gi
+#Project Management with git
